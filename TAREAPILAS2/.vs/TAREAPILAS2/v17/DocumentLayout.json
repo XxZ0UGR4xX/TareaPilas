@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\TAREAPILAS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30071FA-EE72-4A2C-B4D6-9C107EE59836}|TAREAPILAS2\\TAREAPILAS2.csproj|c:\\users\\franc\\source\\repos\\tareapilas2\\tareapilas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30071FA-EE72-4A2C-B4D6-9C107EE59836}|TAREAPILAS2\\TAREAPILAS2.csproj|solutionrelative:tareapilas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\TAREAPILAS2\\TAREAPILAS2\\Program.cs",
+              "RelativeDocumentMoniker": "TAREAPILAS2\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\TAREAPILAS2\\TAREAPILAS2\\Program.cs",
+              "RelativeToolTip": "TAREAPILAS2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:34:41.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

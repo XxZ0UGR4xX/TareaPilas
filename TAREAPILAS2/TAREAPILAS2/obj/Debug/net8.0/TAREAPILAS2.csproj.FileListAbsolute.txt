@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\bin\Debug\net8.0\TAREAPILAS2.exe
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\bin\Debug\net8.0\TAREAPILAS2.deps.json
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\bin\Debug\net8.0\TAREAPILAS2.runtimeconfig.json
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\bin\Debug\net8.0\TAREAPILAS2.dll
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\bin\Debug\net8.0\TAREAPILAS2.pdb
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\TAREAPILAS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\TAREAPILAS2.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\TAREAPILAS2.AssemblyInfo.cs
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\TAREAPILAS2.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\TAREAPILAS2.dll
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\refint\TAREAPILAS2.dll
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\TAREAPILAS2.pdb
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\TAREAPILAS2.genruntimeconfig.cache
+C:\Users\franc\source\repos\TAREAPILAS2\TAREAPILAS2\obj\Debug\net8.0\ref\TAREAPILAS2.dll
